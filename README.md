@@ -3,6 +3,6 @@ NoMoreOres is a simple Minecraft resource pack that replaces all of the ore text
 <br>
 This resource pack supports all versions from 1.6.1 to 1.21.1
 ### Resource pack disabled
-![pack_disabled_screenshot](pack_disabled_screenshot.png)
+![pack_disabled_screenshot](https://raw.githubusercontent.com/MISTERPUG51/NoMoreOres/main/pack_disabled_screenshot.png)
 ### Resource pack enabled
-![pack_enabled_screenshot](pack_enabled_screenshot.png)
+![pack_enabled_screenshot](https://raw.githubusercontent.com/MISTERPUG51/NoMoreOres/main/pack_enabled_screenshot.png)
