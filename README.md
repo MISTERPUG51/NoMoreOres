@@ -1,5 +1,6 @@
 # NoMoreOres
-[NoMoreOres on Modrinth](https://modrinth.com/resourcepack/nomoreores)
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/resourcepack/nomoreores)
+[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/MISTERPUG51/NoMoreOres)
 <br>
 <br>
 NoMoreOres is a simple Minecraft resource pack that replaces all of the ore textures with stone, netherrack, and deepslate. This resource pack makes mining a nightmare and is great for pranking your friends.
